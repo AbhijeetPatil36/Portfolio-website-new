@@ -1,2 +1,2 @@
 # Pertfolio-website
-My own Pertfolio website using HTML,CSS,JAVASCRIPT
+My own Pertfolio website using Html,Css,Javascript
